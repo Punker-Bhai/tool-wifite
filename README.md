@@ -21,6 +21,8 @@ chmod +x *
 bash install.sh
 ```
 ## EXECUTION
-`sudo python wifite.py`
+* `sudo python wifite.py`
+
 or
-`sudo python2 wifite.py`
+
+* `sudo python2 wifite.py`
