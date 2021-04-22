@@ -20,7 +20,7 @@ apt install git -y
 apt install python -y
 apt install python2 -y
 pip install --upgrade pip
-git clone https://github.com/Punker-Bhai/tool-wifite
+git clone https://github.com/hackerspunk/tool-wifite
 cd tool-wifite
 chmod +x *
 bash install.sh
