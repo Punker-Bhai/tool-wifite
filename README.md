@@ -2,7 +2,7 @@
 <a href="https://punkers.business.site"><img title="HACKERSPUNK" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://punkers.business.site"><img title="HACKERSPUNK" src="https://img.shields.io/badge/HACKERS-PUNK-green?style=for-the-badge&logo=appveyor"></a>
+<a href="https://punkers.business.site"><img title="HACKERSPUNK" src="https://img.shields.io/badge/Network-Slutter-green?style=for-the-badge&logo=appveyor"></a>
 </p>
 
 # TOOL-WIFITE
@@ -20,7 +20,7 @@ apt install git -y
 apt install python -y
 apt install python2 -y
 pip install --upgrade pip
-git clone https://github.com/hackerspunk/tool-wifite
+git clone https://github.com/netslutter/tool-wifite
 cd tool-wifite
 chmod +x *
 bash install.sh
